@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DivZach_kabanovPr33</string>
+    <string name="Numbers">Добро пожаловать в приложение Число - факт</string>
+    <string name="Num">Введите число вас интересующее</string>
+    <string name="Go">Давате узнаем факт о нем</string>
+    <string name="back">Вернёмся за новым числом</string>
+</resources>
